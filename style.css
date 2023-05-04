@@ -1,0 +1,30 @@
+body{
+    background-color: whitesmoke;
+    
+}
+.h2a{
+    text-align: center;
+    color: aqua;
+}
+.div1a{
+    background-color: red;
+}
+.div2a{
+    margin-top: 50px;
+    margin-inline-start: 30%;
+    background-color: aqua;
+    width: 50%;
+    text-align: center;
+    border: 5px solid white;
+    border-style: dotted;
+}
+.p1a{
+    text-align: center;
+    color: white;
+}
+.a1a{
+    padding-inline-start: 48%;
+}
+img{
+    padding-top: 10px;
+}
